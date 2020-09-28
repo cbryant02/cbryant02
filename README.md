@@ -10,13 +10,13 @@ I build stuff occasionally, often in one of the following languages:
 
 ### Projects
 
-<p align="center">
+<p>
     <a href="https://github.com/ghost2-discord/ghost2">
         <img height="96" src="https://raw.githubusercontent.com/ghost2-discord/ghost2/release/1.2/ghost-banner.svg"/>
     </a>
 </p>
 
-<p align="center">
+<p>
     <a href="https://github.com/cbryant02/qnes">
         <img height="96" src="./qnes_banner.svg"/>
     </a>
