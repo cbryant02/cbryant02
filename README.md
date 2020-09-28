@@ -11,7 +11,7 @@ I build stuff occasionally, often in one of the following languages:
 ### Projects
 
 <p align="center">
-    <img height="128" src="./projects.svg"/>
+    <img height="96" src="./projects.svg"/>
 </p>
 
 
