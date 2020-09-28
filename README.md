@@ -4,9 +4,9 @@ I'm a high school senior from Texas. Programming has been a passionate hobby of 
 
 I build stuff occasionally, often in one of the following languages:
 - ☕ Java
+- ➕ C++
 - 🦀 Rust
 - 🐍 Python
-- ➕ C++
 
 ### Projects
 
