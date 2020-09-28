@@ -11,17 +11,7 @@ I build stuff occasionally, often in one of the following languages:
 ### Projects
 
 <p align="center">
-  <a href="https://github.com/cbryant02/qnes">
-    <img height="80" src="https://github.com/cbryant02/qnes/raw/master/qnes_logo.svg"/>
-    <br/>
-    <img height="48" src="https://github.com/cbryant02/qnes/raw/master/qnes.svg"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ghost2-discord/ghost2">
-    <img height="96" src="https://raw.githubusercontent.com/ghost2-discord/ghost2/release/1.2/ghost-banner.svg"/>
-  </a>
+    <img height="128" src="./projects.svg"/>
 </p>
 
 
