@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg">
     <a href="https://github.com/ghost2-discord/ghost2">
-        <image x="0" y="0" height="128" href="https://raw.githubusercontent.com/ghost2-discord/ghost2/release/1.2/ghost-banner.svg"></image>
+        <image x="0" y="0" width="384" height="128" href="https://raw.githubusercontent.com/ghost2-discord/ghost2/release/1.2/ghost-banner.svg"></image>
     </a>
 
     <a href="https://github.com/cbryant02/qnes">
-        <image x="439" y="0" height="128" href="https://github.com/cbryant02/qnes/raw/master/qnes_logo.svg"></image>
-        <image x="583" y="32" height="64" href="https://github.com/cbryant02/qnes/raw/master/qnes.svg"></image>
+        <image x="480" y="0" width="128" height="128" href="https://github.com/cbryant02/qnes/raw/master/qnes_logo.svg"></image>
+        <image x="640" y="32" width="192" height="64" href="https://github.com/cbryant02/qnes/raw/master/qnes.svg"></image>
     </a>
 </svg>
