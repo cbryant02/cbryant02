@@ -11,7 +11,7 @@ I build stuff occasionally, often in one of the following languages:
 ### Projects
 
 <p>
-    <a href="https://github.com/ghost2-discord/ghost2">
+    <a href="https://github.com/ghost-discord/ghost">
         <img height="64" src="https://raw.githubusercontent.com/ghost2-discord/ghost2/release/1.2/ghost-banner.svg"/>
     </a>
 </p>
